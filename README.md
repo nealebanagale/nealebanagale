@@ -1,4 +1,5 @@
 ## Hi there 👋
+I speak JavaScript, Java, PHP, TypeScript, and Bash — sometimes all at once.
 
 <!--
 **nealebanagale/nealebanagale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
